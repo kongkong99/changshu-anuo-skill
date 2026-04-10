@@ -1,4 +1,4 @@
-# 常熟阿诺助手 (Changshu Anuo Skill)
+# 常熟阿诺.skill
 
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://github.com/anthropics/claude-code)
 
