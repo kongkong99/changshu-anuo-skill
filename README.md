@@ -15,24 +15,29 @@
 
 ## 📦 安装
 
-### 1. 克隆到本地
+### 方法一：一键安装（推荐）
 
 ```bash
-git clone https://github.com/YixiaJack/changshu-anuo-skill.git
+claude skill add https://github.com/kongkong99/changshu-anuo-skill.git changshu-anuo
 ```
 
-### 2. 复制到 Claude Code Skills 目录
+安装后会自动创建以下快捷命令：
+- `/changshu-anuo`
+- `/anuo`
+- `/诺神`
+
+### 方法二：手动安装
 
 ```bash
-# macOS/Linux
-cp -r changshu-anuo-skill ~/.claude/skills/
+# 1. 克隆到 Skills 目录
+git clone https://github.com/kongkong99/changshu-anuo-skill.git ~/.claude/skills/changshu-anuo
 
-# 创建快捷命令（可选）
-ln -s ~/.claude/skills/changshu-anuo-skill ~/.claude/skills/anuo
-ln -s ~/.claude/skills/changshu-anuo-skill ~/.claude/skills/诺神
+# 2. 创建快捷命令（可选）
+ln -s ~/.claude/skills/changshu-anuo ~/.claude/skills/anuo
+ln -s ~/.claude/skills/changshu-anuo ~/.claude/skills/诺神
+
+# 3. 重启 Claude Code
 ```
-
-### 3. 重启 Claude Code
 
 ## 🚀 使用
 
