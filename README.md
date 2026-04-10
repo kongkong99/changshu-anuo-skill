@@ -184,7 +184,6 @@ MIT License - 自由使用，但请尊重阿诺的知识产权（如果他有的
 ## 🙏 致谢
 
 - 常熟阿诺（诺神）—— 提供语言素材和哲学体系
-- [锋哥 skill](https://github.com/YixiaJack/feng-ge-skill) —— 参考模板
 - Anthropic Claude Code —— Skill 框架
 
 ---
